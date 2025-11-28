@@ -1,0 +1,22 @@
+
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    text-align: center;
+}
+
+.btn {
+    background-color: green;
+    color: white;
+    padding: 10px;
+}
+
+p {
+    font-size: 18px;
+}
+
+img {
+    border: 2px solid black;
+}
